@@ -138,14 +138,32 @@ After clicking **Create Quotation**:
 ---
 
 ## Screenshots
+### 1. Helpdesk Sale Quotation
 
-### Helpdesk Ticket
+![Helpdesk Ticket](images/helpDesk_SQ.png)
 
-_Add screenshot here_
+### 1. Helpdesk Ticket
 
-### Generated Quotation
+The Helpdesk Ticket includes an additional **Quotation Details** section.
 
-_Add screenshot here_
+![Helpdesk Ticket](images/01_ticket.png)
 
+## 2. Ticket with Quotation Details
+
+Quotation information is completed before generating the Sales Quotation.
+
+![Quotation Details](images/02_ticket_filled.png)
+
+## 3. Generated Sales Quotation
+
+The quotation is automatically generated from the Helpdesk Ticket.
+
+![Generated Quotation](images/03_quotation.png)
+
+## 4. Ticket Linked with the Quotation
+
+The created quotation is linked back to the Helpdesk Ticket.
+
+![Linked Ticket](images/04_ticket_linked.png)
 ---
 
