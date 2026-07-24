@@ -149,10 +149,3 @@ _Add screenshot here_
 
 ---
 
-## Author
-
-**Ibrahim Salih**
-
-GitHub:
-https://github.com/brhamsalih/helpdesk-sale-quotation
-
