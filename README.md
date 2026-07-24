@@ -154,4 +154,5 @@ _Add screenshot here_
 **Ibrahim Salih**
 
 GitHub:
-https://github.com/brhamsalih/helpdesk_sale_quotation
+https://github.com/brhamsalih/helpdesk-sale-quotation
+
